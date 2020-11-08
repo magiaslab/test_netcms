@@ -40,7 +40,7 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
+              'RGB(0.97, 0.88, 0.81, 1.00) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
             backgroundColor: 'rgb(255, 68, 0)',
             color: 'white',
             lineHeight: '1',
